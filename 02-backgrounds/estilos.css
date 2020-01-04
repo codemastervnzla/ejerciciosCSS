@@ -1,0 +1,8 @@
+/* Colocarle una imagen de fondo al body */
+*{margin:0;padding:0;font-family:Arial;}
+
+body{
+	background: url(./imagen.jpg);
+}
+
+h1{text-align: center;text-transform:uppercase;}
