@@ -1,0 +1,10 @@
+*{margin: 0;padding: 0;}
+
+h1{
+    /* Cambiando la fuente del texto. */
+    font-family: Arial, Helvetica, sans-serif;
+    /* Transformardo el texto a mayusculas. */
+    text-transform: uppercase;
+    /* Centrando el texto. */
+    text-align: center;
+}
