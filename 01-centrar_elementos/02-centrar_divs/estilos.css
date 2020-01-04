@@ -1,0 +1,7 @@
+div.caja{
+    width: 200px;
+    height: 200px;
+    background: #ff4000;
+    /* Centrar */
+    margin: auto;
+}
